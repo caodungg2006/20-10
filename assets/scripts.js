@@ -119,7 +119,7 @@ function createFallingLetter() {
 
   setTimeout(() => {
     letter.remove();
-  }, 8000);
+  }, 30000);
 }
 
 function showPopup() {
